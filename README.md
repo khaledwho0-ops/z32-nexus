@@ -20,6 +20,10 @@
 
 ---
 
+> **🖥️ Desktop Application:** Z32 Nexus is a local Python GUI application — not a web app. It requires **Python 3.10+** and the dependencies listed in `requirements.txt`. Just `pip install -r requirements.txt && python main.py` to get started.
+
+---
+
 ## ✨ Features
 
 - 📚 **Vocabulary System** — Smart flashcard engine with spaced repetition
